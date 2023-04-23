@@ -1,2 +1,2 @@
 # practice_github
-This Hub for practice
+This central Repo is for practice
